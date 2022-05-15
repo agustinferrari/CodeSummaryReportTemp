@@ -1,4 +1,4 @@
-name: 'Code Coverage Report Test'
+name: 'Code Coverage Report Temp'
 author: 'Irongut <murray.dave@outlook.com> & Agustin Ferrari'
 description: 'A GitHub Action that reads Cobertura format code coverage files and outputs a text or markdown summary.'
 branding:
